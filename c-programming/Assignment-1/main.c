@@ -19,7 +19,7 @@
 #include "functions.c"
 
 int main(){
-    printf("is Even:: %d\n",oddOrEven(11));
+    printf("is Even:: %d\n",oddOrEven(10));
     printf("Number Reverse ::%d\n",numberReverse(1234));
     multipicationTableGenerator(18);
 }
