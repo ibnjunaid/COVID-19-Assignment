@@ -1,0 +1,6 @@
+ Where Did Viruses Come From? 
+ There is much debate among virologists about this question.
+ Three main hypotheses have been articulated: 
+ 1. The progressive, or escape, hypothesis states that viruses arose from genetic elements that gained the ability to move between cells; 
+2. the regressive, or reduction, hypothesis asserts that viruses are remnants of cellular organisms;
+ and 3. the virus-first hypothesis states that viruses predate or coevolved with their current cellular hosts.
